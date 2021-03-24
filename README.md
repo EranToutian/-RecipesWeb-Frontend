@@ -7,7 +7,7 @@ Developed using Vue.js & Nodejs
 
 ## Links
 
-Git [Backend](https://github.com/danielbs93/RecipeWeb-Backend)
+Git [Backend](https://github.com/EranToutian/RecipesWeb-Backend)
 
 Swagger [API](https://app.swaggerhub.com/apis-docs/erantoutian/EatAndRepeat/1.0.0#/Recipe)
 
